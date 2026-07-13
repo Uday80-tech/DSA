@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Uday80-tech/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Uday80-tech/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
