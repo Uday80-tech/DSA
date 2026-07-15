@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Uday80-tech/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Uday80-tech/DSA/tree/master/0009-palindrome-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
