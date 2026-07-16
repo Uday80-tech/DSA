@@ -5,5 +5,6 @@ class Solution(object):
         :type n: int
         :rtype: float
         """
-        return x**n
+        d = x**n
+        return d
         
