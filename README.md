@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Uday80-tech/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Uday80-tech/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Uday80-tech/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Uday80-tech/DSA/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Uday80-tech/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Uday80-tech/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
