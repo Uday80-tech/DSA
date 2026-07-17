@@ -12,10 +12,10 @@ class Solution(object):
             if nums[i] == x:
                 occurence += 1
                 map[occurence] = i
-        answer = [0] * len(queries)
+    
         for i in range(len(queries)):
             if queries[i] in map:
-                answer[i] = map[queries[i]]
+                queries[i] = map[queries[i]]
             else:
-                answer[i] = -1
-        return answer
+                queries[i] = -1
+        return queries
