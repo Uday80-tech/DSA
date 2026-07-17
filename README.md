@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Uday80-tech/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Uday80-tech/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uday80-tech/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
 | ------- |
