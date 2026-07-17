@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uday80-tech/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uday80-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -94,7 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uday80-tech/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uday80-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Uday80-tech/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
