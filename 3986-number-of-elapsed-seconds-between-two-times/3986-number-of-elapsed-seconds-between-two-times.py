@@ -5,9 +5,9 @@ class Solution(object):
         :type endTime: str
         :rtype: int
         """
-        l1 = startTime.split(":")
-        l2 = endTime.split(":")
-        time = 3600 * (int(l2[0]) - int(l1[0])) + 60 * (int(l2[1]) - int(l1[1])) + (int(l2[2]) - int(l1[2]))
+        l1 = list(map(int , startTime.split(":")))
+        l2 = list(map(int , endTime.split(":")))
+        time = 3600 * (l2[0] - l1[0]) + 60 * (l2[1] - l1[1]) + (l2[2] - l1[2])
         return time
 
         
