@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/Uday80-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uday80-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Uday80-tech/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Uday80-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Uday80-tech/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Uday80-tech/DSA/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
