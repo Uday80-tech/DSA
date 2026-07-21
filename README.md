@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Uday80-tech/DSA/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Uday80-tech/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Uday80-tech/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Uday80-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
