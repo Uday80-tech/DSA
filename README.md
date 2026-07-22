@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Uday80-tech/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Uday80-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uday80-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Uday80-tech/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uday80-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
