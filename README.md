@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uday80-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uday80-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uday80-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Uday80-tech/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Uday80-tech/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Uday80-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Uday80-tech/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uday80-tech/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Uday80-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uday80-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
