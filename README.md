@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Uday80-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Uday80-tech/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Uday80-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Uday80-tech/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Uday80-tech/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Uday80-tech/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Math
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Uday80-tech/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uday80-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/Uday80-tech/DSA/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Uday80-tech/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Uday80-tech/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
