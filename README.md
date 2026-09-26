@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uday80-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Uday80-tech/DSA/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Uday80-tech/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Uday80-tech/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Uday80-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Uday80-tech/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Uday80-tech/DSA/tree/master/1260-shift-2d-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Uday80-tech/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Uday80-tech/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Number Theory
 |  |
